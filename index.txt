@@ -1,2 +1,1 @@
-thi is the index file
-mc
+this is the index file

@@ -1,1 +1,6 @@
 this is my repo
+
+
+hunger 
+food
+colddrink 
